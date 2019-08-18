@@ -1,6 +1,6 @@
 # Tremolo
----
-###**Description**
+
+<h3>Description</h3>
 
 Tremolo gives you the ability to easily track your music practice sessions and give valuable statistics to help guide your future sessions. This application is designed to follow the flow of a practice session and help musicians log their repetitions and segments with minimal time spent away from their instrument. A breakdown is generated for each session and user can store sessions and visit this these breakdowns at any time.
 <br /> 
@@ -47,7 +47,7 @@ _When you've completed your last practice segment, select DONE to go to the BREA
 _Pressing FINISH AND STORE will save your session in our database. You can then view your saved session breakdowns at any time by accessing the SESSIONS tab in the MENU._
 <br /> 
 
-![More](/imgs/More.png)
+<img src="/imgs/More.png" alt="More" width="300px" height="500px">
 
 **_MORE FEATURES TO COME!_**
 
@@ -61,7 +61,7 @@ _The current version of this application represents a MVP (Minimum Viable Produc
 <br /> 
 <br /> 
 
-###**Technical Details**
+<h3>Technical Details</h3>
 
 **_Technologies Used:_**
 
